@@ -1,4 +1,4 @@
-![Boomerang Logistics Demo](./insert.gif)
+![Boomerang Logistics Demo](https://github.com/My-Logistics-Store/.github/blob/main/insert.gif)
 
 # Welcome to Boomerang Logistics Portal 🚚  
 
